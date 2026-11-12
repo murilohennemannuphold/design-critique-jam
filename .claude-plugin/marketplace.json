@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-critique-jam",
+  "description": "Experimental Claude Code skill: sets up a fast, structured design critique session and builds the FigJam board that runs it.",
+  "owner": {
+    "name": "Murilo Hennemann"
+  },
+  "plugins": [
+    {
+      "name": "design-critique-jam",
+      "description": "Experimental: sets up a fast, structured design critique session for a designer and builds the FigJam board that runs it.",
+      "author": {
+        "name": "Murilo Hennemann"
+      },
+      "source": "."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "design-critique-jam",
+  "displayName": "Design Critique Jam",
+  "version": "1.0.0",
+  "description": "Experimental: sets up a fast, structured design critique session for a designer and builds the FigJam board that runs it.",
+  "author": {
+    "name": "Murilo Hennemann"
+  },
+  "skills": "./skills/"
+}
